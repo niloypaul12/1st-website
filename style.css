@@ -126,6 +126,8 @@ ul li a:hover{
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 1.2px;
     line-height: 30px;
+    text-align: justify;
+    
 }
 
 .content h1{
@@ -186,9 +188,9 @@ ul li a:hover{
     width: 220px;
     font-family: sans-serif;
     text-align: center;
-    color: #ff7200;
+    color: #fff;
     font-size: 22px;
-    background-color: white;
+    background-color:#ff7200;
     border-bottom-right-radius: 5px;
     margin: 2px;
     padding: 8px;
